@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  redis:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-21T01:23:35.220153133+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 25ee87ae65c8de43c2a976b234e21c1b46367bc0a88ba60a8c978668d5a4c101
+    name: redis
+    type: application
+    urls:
+    - https://github.com/Nareshban/redis/redis-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-21T01:23:35.219895653+05:30"
